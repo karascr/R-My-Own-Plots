@@ -1,4 +1,4 @@
-# params: data = data.frame object.
+# parameters: data = data.frame object.
 #         columns = the columns of data.frame to be plotted.
 #         plotTitles = name (main) of the plot.( default value is = "My Histogram")
 #         xLabs = x axis label. ( default value is = "")
